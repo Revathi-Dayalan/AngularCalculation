@@ -242,7 +242,7 @@ export class AppModule { }
 ```
 
 ## OUTPUT:
-
+![output](https://github.com/Revathi-Dayalan/AngularCalculation/blob/main/img.png?raw=true)
 
 
 ## Result:
